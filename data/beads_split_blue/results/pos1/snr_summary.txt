@@ -1,0 +1,31 @@
+SNR Analysis Summary
+Generated on: 2026-03-07T11:55:41
+
+AOI 1:
+  Average SNR: 65.35
+  SD SNR: 85.23
+  Max SNR: 273.30 (Z-slice 8)
+  Positive slices: 17/17
+
+AOI 2:
+  Average SNR: 52.54
+  SD SNR: 65.19
+  Max SNR: 233.13 (Z-slice 8)
+  Positive slices: 17/17
+
+AOI 3:
+  Average SNR: 63.66
+  SD SNR: 79.36
+  Max SNR: 239.80 (Z-slice 7)
+  Positive slices: 17/17
+
+AOI 4:
+  Average SNR: 26.48
+  SD SNR: 40.99
+  Max SNR: 141.61 (Z-slice 8)
+  Positive slices: 17/17
+
+Overall Average: 52.01
+Overall SD: 70.00
+Best AOI: 1
+Ideal AOIs (max SNR > 50): 1, 2, 3, 4

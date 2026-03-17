@@ -1,0 +1,13 @@
+SNR Analysis Summary
+Generated on: 2026-03-07T13:09:25
+
+AOI 1:
+  Average SNR: 36851390.84
+  SD SNR: nan
+  Max SNR: 36851390.84 (Z-slice 0)
+  Positive slices: 1/1
+
+Overall Average: 36851390.84
+Overall SD: 0.00
+Best AOI: 1
+Ideal AOIs (max SNR > 50): 1

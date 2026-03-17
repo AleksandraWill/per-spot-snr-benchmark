@@ -1,0 +1,5 @@
+x,y,pos,AOI,crosstalk_frac,type
+205,118,pos1,1,0.502714569733875,red_from_blue
+281,106,pos1,2,0.8303542570497675,blue_from_red
+297,108,pos2,1,0.9109624765583816,blue_from_red
+275,170,pos2,2,0.8232670805506948,blue_from_red
