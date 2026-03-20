@@ -7,7 +7,7 @@ This Python-based suite provides a standardized framework for benchmarking the p
 The pipeline is designed as a sequential command-line interface (CLI) that guides the user from raw data processing to comparative plotting.
 
 <p align="center">
-  <img src="benchmarking_flowchart.png" width="450">
+  <img src="benchmarking_flowchart.png" width="350">
 </p>
 
 ---
